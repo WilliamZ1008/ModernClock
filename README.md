@@ -55,7 +55,7 @@ app/
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/ModernClock.git
+https://github.com/WilliamZ1008/ModernClock
 ```
 
 2. 在 Android Studio 中打开项目
