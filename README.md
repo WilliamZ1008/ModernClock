@@ -2,7 +2,7 @@
 
 一个现代化的 Android 时钟应用，使用 Jetpack Compose 构建，具有优雅的 UI 设计和实用的功能。
 
-![image-20250529232404994](D:\Projects\Android\ModernClock\assets\image-20250529232404994.png)
+![image-20250529232404994](./assets/image-20250529232404994.png)
 
 ## 功能特点
 
